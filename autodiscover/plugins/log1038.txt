@@ -1,0 +1,4330 @@
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet6.IPv6'>, sd_proto_name: IPv6
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.inet.IP'>, sd_proto_name: IPv4
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Ether'>, sd_proto_name: MAC
+We are in get_pkt_info.
+ sd_proto: <class 'scapy.layers.l2.Dot3'>, sd_proto_name: MAC
+Hit except instead.
+[]
