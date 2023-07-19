@@ -47,7 +47,7 @@ from datetime import datetime, timedelta
 import logging
 
 
-
+conf.dot15d4_protocol = "zigbee"
 
 # from scapy import packet, 
 
@@ -77,6 +77,7 @@ class Host:
         return self.addrs.keys() 
 
     def to_stix(self):
+        print("h.to_stix called")
         l = []
         infra = Infrastructure(name=self.top_addr)
         l.append(infra)
@@ -102,6 +103,7 @@ class Host:
             elif proto == 'Dot3' or proto == 'Dot11' or proto == 'Dot15d4':
                 mac = MACAddress(value=addr)
                 self.stix_addrs[addr] = mac
+                print("stix_addrs has been set: {}".format(self.stix_addrs[addr]))
                 l.append(mac)
                 rel = Relationship(source_ref=infra, target_ref=mac,  relationship_type='has')
                 l.append(rel)
@@ -173,12 +175,14 @@ class ConversationHolder:
         if port_proto is not None:
             key = (port_proto, pkt[f'{port_proto}_sport'], pkt[f'{port_proto}_dport'],
             src_dst_proto, pkt[f'{src_dst_proto}_src'], pkt[f'{src_dst_proto}_dst'])
+            
             rev_key = (port_proto, pkt[f'{port_proto}_dport'], pkt[f'{port_proto}_sport'],
             src_dst_proto, pkt[f'{src_dst_proto}_dst'], pkt[f'{src_dst_proto}_src'])
 
         else:
             key = (None, None, None,
             src_dst_proto, pkt[f'{src_dst_proto}_src'], pkt[f'{src_dst_proto}_dst'])
+            
             rev_key = (None, None, None,
             src_dst_proto, pkt[f'{src_dst_proto}_dst'], pkt[f'{src_dst_proto}_src'])
 
@@ -226,6 +230,7 @@ class ConversationHolder:
         # encapsulation(maybe)
         src_object, dst_object = self.hh.add_hosts(pkt, sd_proto)
         addr_proto = pkt['addr_proto']
+        print("addr_proto = {}".format(addr_proto))
         self.lookup_dict[key] = {
             'start': pkt['arr_time'],
             # the stix2 library refuses to have converstation in which end == start, however in 1 packet converstations that occurs... So we do hacky stuff
@@ -246,7 +251,8 @@ class ConversationHolder:
             # 'src_object':1,
             # 'dst_object':1
         }
-        #print("This is addr_proto from make_convo: {}".format(self.lookup_dict[key]["addr_proto"]))
+        #self.lookup_dict[key]['addr_proto'] = addr_proto
+        print("This is addr_proto from make_convo: {}".format(self.lookup_dict[key]["addr_proto"]))
         #   'IPv4_dst': '8.8.8.8', 'IPv4_src': '192.168.60.20', 'UDP_dport': 53, 'UDP_sport': 63000, 'MAC_dst': 'b4:fb:e4:8d:fb:76', 'MAC_src': 'cc:48:3a:5a:b3:3a'}
 
     def to_stix(self):
@@ -254,20 +260,25 @@ class ConversationHolder:
         print("From to_stix:")
         for key, conversation in self.lookup_dict.items():
             print("key: ", key, "Convo: ", conversation)
-            addr_proto = conversation.pop('addr_proto')
-            if addr_proto not in conversation['src_ref'].stix_addrs: 
-                 logging.warning(f"Proto not in object: {conversation['src_ref'].stix_addrs}")
-            if addr_proto not in conversation['dst_ref'].stix_addrs: 
-                 logging.warning(f"Proto not in object: {conversation['dst_ref'].stix_addrs}")
-
-            conversation['src_ref'] = conversation['src_ref'].stix_addrs[conversation.pop('src_addr')]
-            conversation['dst_ref'] = conversation['dst_ref'].stix_addrs[conversation.pop('dst_addr')]
-            #REMOVE CUSTOM
-            netraffic = NetworkTraffic(**conversation, allow_custom=True)
-            src_rel = Relationship(source_ref=conversation['src_ref'], target_ref=netraffic, relationship_type='communicates-with')
-            dst_rel = Relationship(source_ref=netraffic, target_ref=conversation['dst_ref'], relationship_type='communicates-with')
-            l.extend([netraffic, src_rel, dst_rel])
-        return l
+            try:
+                addr_proto = conversation.pop('addr_proto')
+            #except KeyError:
+                #addr_proto = "Dot11"
+                if addr_proto not in conversation['src_ref'].stix_addrs: 
+                    logging.warning(f"Proto not in object: {conversation['src_ref'].stix_addrs}")
+                if addr_proto not in conversation['dst_ref'].stix_addrs: 
+                     logging.warning(f"Proto not in object: {conversation['dst_ref'].stix_addrs}")
+                conversation['src_ref'] = conversation['src_ref'].stix_addrs[conversation.pop('src_addr')]
+                conversation['dst_ref'] = conversation['dst_ref'].stix_addrs[conversation.pop('dst_addr')]
+                print("Found them: {}, {}".format(addr_proto, conversation['src_ref']))
+                #REMOVE CUSTOM
+                netraffic = NetworkTraffic(**conversation, allow_custom=True)
+                src_rel = Relationship(source_ref=conversation['src_ref'], target_ref=netraffic, relationship_type='communicates-with')
+                dst_rel = Relationship(source_ref=netraffic, target_ref=conversation['dst_ref'], relationship_type='communicates-with')
+                l.extend([netraffic, src_rel, dst_rel])
+            except:
+                continue
+            return l
 
 class PacketProcessor:
     # The tuple exists for display purposes, might be better to just do it later on
@@ -310,6 +321,7 @@ class PacketProcessor:
 
     def get_pkt_info(self, pkt):
         print("----------------------NEW PACKET------------------------")
+        print(pkt)
         d = {}
         d['size'] = len(pkt)
         d['arr_time'] = datetime.fromtimestamp(pkt.time) 
@@ -320,21 +332,38 @@ class PacketProcessor:
         print(pkt)
         for src_dst_proto in self.src_dst_protos:
             sd_proto, sd_proto_name = src_dst_proto
-            #print("Testing for sd_proto: {}, sd_proto_name: {}".format(sd_proto, sd_proto_name))
-            #print(sd_proto, sd_proto_name)
+            print("Testing for sd_proto: {}, sd_proto_name: {}".format(sd_proto, sd_proto_name))
+            print(sd_proto, sd_proto_name)
             #trying make sure we don't duplicate a single system for each address type
             if sd_proto in pkt:
-                #print("{} found in packet!!".format(sd_proto))
+                print("{} found in packet!!".format(sd_proto))
                 if top_sd_proto is None:
                     top_sd_proto = sd_proto_name
                     print("top_sd_proto is now {}".format(top_sd_proto))
-                try:
-                    d[f'{sd_proto_name}_dst'] = pkt[sd_proto].dst
-                    d[f'{sd_proto_name}_src'] = pkt[sd_proto].src
-                except:
+
+                #---- ZigBee / 802.15.4----
+                if sd_proto_name == "Dot15d4":
+                    try:
+                        d[f'{sd_proto_name}_dst'] = pkt.dest_addr #ZigBee 802.
+                        d[f'{sd_proto_name}_src'] = pkt.src_addr
+                        print("Recorded source address: {}".format(d[f'{sd_proto_name}_src']))
+                    except:
+                        d[f'{sd_proto_name}_dst'] = 0x0002 # There is at least one packet that can't be parsed. Need to deal with it in a better way.
+                        d[f'{sd_proto_name}_src'] = 0x0002
+
+                #---- WiFi / 802.11
+                elif sd_proto_name == "Dot11":
                     d[f'{sd_proto_name}_dst'] = pkt[sd_proto].addr1
                     d[f'{sd_proto_name}_src'] = pkt[sd_proto].addr2
+
+                #---- Ethernet / 802.3
+                else:
+                    d[f'{sd_proto_name}_dst'] = pkt[sd_proto].dst
+                    d[f'{sd_proto_name}_src'] = pkt[sd_proto].src
+
+            
                 # may want to remove this later
+                print("after the except")
                 d['addr_proto'] = top_sd_proto
                 for port_proto in self.port_protos:
                     p_proto, p_proto_name = port_proto
@@ -345,9 +374,9 @@ class PacketProcessor:
                         d[f'{p_proto_name}_dport'] = pkt[p_proto].dport
                         d[f'{p_proto_name}_sport'] = pkt[p_proto].sport
 
-        #print("All packet info retrieved: ")
-        #for key, value in d.items():
-            #print(key, ":", value)
+        print("All packet info retrieved: ")
+        for key, value in d.items():
+            print(key, ":", value)
 
 
         if ('IPv6_src' in d or 'IPv4_src' in d) and ('addr_proto' in d and d['addr_proto'] == 'MAC'):
@@ -359,8 +388,7 @@ class PacketProcessor:
 
         self.ch.add_pkt(top_p_proto, top_sd_proto, d)
 
-
-        #print("-----------------------DONE--------------------------------")
+        print("-----------------------DONE--------------------------------")
 
         return d
 
@@ -378,32 +406,37 @@ class PacketProcessor:
     def run(self):
         # print(packets.summary())
         # l = []
-        #count = 0
+        count = 0
         for packet in tqdm(self.packets):
             #try:
-            #count += 1
+            count += 1
             #if count % 2 == 0:
                 #continue
+                #print("even")
             #else:
             #print(count)
             self.get_pkt_info(packet)
             self.sl.merge(self.to_stix())
-            #print("Count: {}".format(count))
+            print("Count: {}".format(count))
 
     def to_stix(self):
         objs = []
-        print("At hh.to_stix()")
+        #print("At hh.to_stix()")
         objs.extend(self.hh.to_stix())
-        print("Survived hh.to_stix()")
-        objs.extend(self.ch.to_stix())
-        return objs
-        # objs.extend()
+        #print("Survived hh.to_stix()")
+        try:
+            objs.extend(self.ch.to_stix())
+            return objs
+        except TypeError:
+            print("Can't extend objs (likely empty)")
+            return objs
+        #objs.extend()
 
 
         
 if __name__ == "__main__":
-    in_file = '/home/bb/Downloads/Zer0Trust-5G.pcap-01.cap'
-    out_file = "0t-5g.json"
+    in_file = '/home/bb/Downloads/Zer0Trust-2G.pcap-01.cap'#'/home/bb/Downloads/1st-try_100.pcap'
+    out_file = "2g.json"
     class dc:
         pass
     
